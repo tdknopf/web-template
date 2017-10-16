@@ -1,2 +1,2 @@
-# web-template
-My web design practice
+# front-end
+My front-end-development practice
