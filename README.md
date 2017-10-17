@@ -1,2 +1,4 @@
 # front-end
-My front-end-development practice
+front-end-development 
+Learning through practice
+learning new things every day
